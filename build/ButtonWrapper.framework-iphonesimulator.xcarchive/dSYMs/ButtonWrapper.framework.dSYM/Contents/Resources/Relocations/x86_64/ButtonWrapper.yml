@@ -1,0 +1,12 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/shrutimendon/Library/Developer/Xcode/DerivedData/ButtonWrapper-bcqgmcgzmykanubwujfyuadnomaz/Build/Intermediates.noindex/ArchiveIntermediates/ButtonWrapper/InstallationBuildProductsLocation/Library/Frameworks/ButtonWrapper.framework/ButtonWrapper'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x54964, size: 0x8, addend: 0x0, symName: _ButtonWrapperVersionString, symObjAddr: 0x0, symBinAddr: 0x3E60, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x54999, size: 0x8, addend: 0x0, symName: _ButtonWrapperVersionNumber, symObjAddr: 0x38, symBinAddr: 0x3E98, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x549D6, size: 0x8, addend: 0x0, symName: '_$s13ButtonWrapperAAC04makeA05title7bgColor0dF0So8UIButtonCSS_So7UIColorCAJtFZ', symObjAddr: 0x0, symBinAddr: 0x3D30, symSize: 0xA0 }
+  - { offsetInCU: 0x4B, offset: 0x549FA, size: 0x8, addend: 0x0, symName: '_$s13ButtonWrapperAAC04makeA05title7bgColor0dF0So8UIButtonCSS_So7UIColorCAJtFZ', symObjAddr: 0x0, symBinAddr: 0x3D30, symSize: 0xA0 }
+  - { offsetInCU: 0xDF, offset: 0x54A8E, size: 0x8, addend: 0x0, symName: '_$s13ButtonWrapperAACfd', symObjAddr: 0xA0, symBinAddr: 0x3DD0, symSize: 0x10 }
+  - { offsetInCU: 0x10C, offset: 0x54ABB, size: 0x8, addend: 0x0, symName: '_$s13ButtonWrapperAACfD', symObjAddr: 0xB0, symBinAddr: 0x3DE0, symSize: 0x20 }
+  - { offsetInCU: 0x13A, offset: 0x54AE9, size: 0x8, addend: 0x0, symName: '_$s13ButtonWrapperAACMa', symObjAddr: 0xD0, symBinAddr: 0x3E00, symSize: 0x20 }
+...

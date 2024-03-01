@@ -1,0 +1,11 @@
+framework module ButtonWrapper {
+  umbrella header "ButtonWrapper.h"
+  export *
+
+  module * { export * }
+}
+
+module ButtonWrapper.Swift {
+  header "ButtonWrapper-Swift.h"
+  requires objc
+}
