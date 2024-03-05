@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name             = 'ButtonWrapper'
-  spec.version          = '1.0.4'
+  spec.version          = '1.0.5'
   spec.license          = { :type => 'MIT', :text => "MIT License" }
   spec.homepage         = 'https://github.com/shruti-1803/ButtonWrapper'
   spec.authors          = { 'shruti-1803' => 'shrutimendon18@gmail.com' }
